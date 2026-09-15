@@ -1,5 +1,5 @@
 import * as T from 'three';
-import {installParkedFleet} from '../app/parked-fleet.js?v=fleet-38';
+import {installParkedFleet} from '../app/parked-fleet.js?v=release-40';
 import {GLTFLoader} from './GLTFLoader.js';
 import {finishCityMaterial60} from './city-props-v60.js';
 import {createCityHeightSampler58} from './city-height-sampler58.js';

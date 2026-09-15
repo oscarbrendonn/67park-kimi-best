@@ -1,6 +1,6 @@
 import * as T from 'three';
-import {mergeGeometries,mergeVertices} from '/67park-kimi-best/vendor/addons/utils/BufferGeometryUtils.js';
-import {RoundedBoxGeometry} from '/67park-kimi-best/vendor/addons/geometries/RoundedBoxGeometry.js';
+import {mergeGeometries,mergeVertices} from '../vendor/addons/utils/BufferGeometryUtils.js';
+import {RoundedBoxGeometry} from '../vendor/addons/geometries/RoundedBoxGeometry.js';
 import {addParkPlates} from './vehicle-branding.js?v=fleet-38';
 
 // The reference is a moulded, body-colour retro compact. Geometry is native 3D:
