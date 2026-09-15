@@ -1,3 +1,4 @@
+import "./lane-rush-panel.js?v=rush-1";
 import {installObstaclePractice} from "./obstacle-practice-entry.js?v=release-40c";
 import{installParkRenderHealth}from"./park-render-health.js?v=chat-33";
 import{useParkFramePolicy}from"./park-frame-policy.js?v=frame-31";
